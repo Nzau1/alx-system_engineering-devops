@@ -1,1 +1,1 @@
-task 0 where am i? 
+shell permissions betty 
