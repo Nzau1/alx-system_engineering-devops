@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -P '^[^\s]+\s+[A-Z]' /etc/passwd
+grep -P '^[[:alpha:]]' /etc/passwd
